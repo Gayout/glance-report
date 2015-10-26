@@ -22,6 +22,10 @@ Here is the methodology Jonathan Pastor used with Nova:
 ###Update `ROME` to add new DB requests
 As `Nova` is bigger than `Glance`, it is possible that every DB queries needed by `Glance` are already implemented in `ROME`. However we will need to test every endpoint and add the missing queries if needed.
 
+##Gantt
+
+![Gantt](Gantt.PNG)
+
 
 ##Nova
 
